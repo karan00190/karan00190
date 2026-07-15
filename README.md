@@ -33,8 +33,14 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 
+![Karan's streak](https://streak-stats.demolab.com/?user=karan00190&theme=tokyonight&hide_border=true)
+
+
 ### GitHub Stats
 
 ![Karan's GitHub stats](https://github-readme-stats-rickstaa.vercel.app/api?username=karan00190&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=karan00190&layout=compact&theme=tokyonight&hide_border=true)
+
+
+![Profile views](https://komarev.com/ghpvc/?username=karan00190&style=for-the-badge&color=c99a4a)
 
