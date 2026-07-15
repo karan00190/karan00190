@@ -35,5 +35,6 @@
 
 ### GitHub Stats
 
-![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karan00190&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karan00190&layout=compact&theme=tokyonight&hide_border=true)
+![Karan's GitHub stats](https://github-readme-stats-rickstaa.vercel.app/api?username=karan00190&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=karan00190&layout=compact&theme=tokyonight&hide_border=true)
+
