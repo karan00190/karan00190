@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=C99A4A&center=true&vCenter=true&width=600&lines=Backend+Engineer;Building+HotelIQ+and+Distributed+Systems;Cyber+Security+Intern+%40+BARC)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=C99A4A&center=true&vCenter=true&width=600&lines=Backend+Engineer;Building+HotelIQ+and+Distributed+Systems;)
 
 
 ### Hi there, I'm Karan 👋
