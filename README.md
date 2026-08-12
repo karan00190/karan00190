@@ -33,7 +33,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 
-![snake animation](https://raw.githubusercontent.com/karan00190/karan00190/output/github-contribution-grid-snake-dark.svg)
+
 
 
 ![Karan's streak](https://streak-stats.demolab.com/?user=karan00190&theme=tokyonight&hide_border=true)
@@ -46,4 +46,6 @@
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=karan00190&style=for-the-badge&color=c99a4a)
+
+![snake animation](https://raw.githubusercontent.com/karan00190/karan00190/output/github-contribution-grid-snake-dark.svg)
 
